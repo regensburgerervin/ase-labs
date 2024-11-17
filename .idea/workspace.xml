@@ -31,11 +31,6 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="Shingler" type="f1a62948:ProjectNode" />
               </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Shingler" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
             </expand>
             <select />
           </tree_state>
@@ -98,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731861329183</updated>
       <workItem from="1731861330279" duration="496000" />
-      <workItem from="1731861844919" duration="7378000" />
+      <workItem from="1731861844919" duration="7909000" />
     </task>
     <servers />
   </component>
